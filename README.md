@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on a real-time project<br>👯 I’m looking to collaborate<br>🤝 I’m looking for help with chat API<br>🌱 I’m currently pursuing BTech (CSE)<br>💬 Ask me about<br>⚡ Fun fact I’m interested in Web development etc
+
+Hi, I’m Rishi 
+
+A UI/UX & Product Designer crafting seamless digital experiences that solve real problems with creativity, strategy, and user-first thinking.
 
 
 ## 🌐 Socials:
